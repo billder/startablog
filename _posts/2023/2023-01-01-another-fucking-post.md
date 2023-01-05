@@ -1,6 +1,6 @@
 ---
 layout: post
-title: This Is a Fucking Post
+title: This Is a Post
 description: This is how you write a fucking post on your fucking blog.
 typora-root-url: ../../
 ---
