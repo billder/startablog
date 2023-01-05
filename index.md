@@ -1,6 +1,6 @@
 ---
-title: Billder
-description: The site of Bill DeRouchey
+title: billder
+description: Bill DeRouchey
 layout: default
 ---
 
