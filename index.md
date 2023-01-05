@@ -5,7 +5,9 @@ layout: default
 ---
 
 {: .large}
-Oh hello there.
+Oh hello there. Various thoughts via my typey-type machine...
+
+<hr>
 
 {% for post in site.posts %}
   <div class="blog-item">
